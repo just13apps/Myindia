@@ -1,0 +1,965 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="ZEE BOLLYWOOD HD  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE BOLLYWOOD HD  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE BOLLYWOOD HD  IPTVultra.com [640x480]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5024.ts
+
+#EXTINF:-1, tvg-id="ZEE CINEMA HD  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="ZEE CINEMA HD  IPTVultra.com [720x576]"  group-title="Unsorted",ZEE CINEMA HD  IPTVultra.com [720x576]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5032.ts
+
+#EXTINF:-1, tvg-id="COLORS HD  IPTVultra.com [704x576]" tvg-logo="Logo N/A" tvg-name="COLORS HD  IPTVultra.com [704x576]"  group-title="Unsorted",COLORS HD  IPTVultra.com [704x576]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5008.ts
+
+#EXTINF:-1, tvg-id="ZEE SMILE  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="ZEE SMILE  IPTVultra.com [1920x1080]"  group-title="Unsorted",ZEE SMILE  IPTVultra.com [1920x1080]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5045.ts
+
+#EXTINF:-1, tvg-id="ZEE CLASSIC  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="ZEE CLASSIC  IPTVultra.com [1920x1080]"  group-title="Unsorted",ZEE CLASSIC  IPTVultra.com [1920x1080]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5044.ts
+
+#EXTINF:-1, tvg-id="NATIONAL GEOGRAPHIC  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="NATIONAL GEOGRAPHIC  IPTVultra.com [1920x1080]"  group-title="Unsorted",NATIONAL GEOGRAPHIC  IPTVultra.com [1920x1080]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4946.ts
+
+#EXTINF:-1, tvg-id="ZEE CINEMA UK  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE CINEMA UK  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE CINEMA UK  IPTVultra.com [640x480]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5043.ts
+
+#EXTINF:-1, tvg-id="STAR PLUS UK SD/HD  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="STAR PLUS UK SD/HD  IPTVultra.com [544x576]"  group-title="Unsorted",STAR PLUS UK SD/HD  IPTVultra.com [544x576]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5022.ts
+
+#EXTINF:-1, tvg-id="SONY TV HD  IPTVultra.com [1920x1088]" tvg-logo="Logo N/A" tvg-name="SONY TV HD  IPTVultra.com [1920x1088]"  group-title="Unsorted",SONY TV HD  IPTVultra.com [1920x1088]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5018.ts
+
+#EXTINF:-1, tvg-id="ZEE TV HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="ZEE TV HD  IPTVultra.com [1280x720]"  group-title="Unsorted",ZEE TV HD  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5031.ts
+
+#EXTINF:-1, tvg-id="PBN MUSIC  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="PBN MUSIC  IPTVultra.com [1920x1080]"  group-title="Unsorted",PBN MUSIC  IPTVultra.com [1920x1080]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4921.ts
+
+#EXTINF:-1, tvg-id="CHAKDE TV  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="CHAKDE TV  IPTVultra.com [1280x720]"  group-title="Unsorted",CHAKDE TV  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4936.ts
+
+#EXTINF:-1, tvg-id="ZING  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="ZING  IPTVultra.com [704x400]"  group-title="Unsorted",ZING  IPTVultra.com [704x400]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5042.ts
+
+#EXTINF:-1, tvg-id="PTC News  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="PTC News  IPTVultra.com [640x368]"  group-title="Unsorted",PTC News  IPTVultra.com [640x368]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4919.ts
+
+#EXTINF:-1, tvg-id="STAR GOLD  IPTVultra.com [720x480]" tvg-logo="Logo N/A" tvg-name="STAR GOLD  IPTVultra.com [720x480]"  group-title="Unsorted",STAR GOLD  IPTVultra.com [720x480]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5019.ts
+
+#EXTINF:-1, tvg-id="ZEE Busines/NEWS  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE Busines/NEWS  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE Busines/NEWS  IPTVultra.com [640x480]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5025.ts
+
+#EXTINF:-1, tvg-id="DESI ChANNEL  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="DESI ChANNEL  IPTVultra.com [720x576]"  group-title="Unsorted",DESI ChANNEL  IPTVultra.com [720x576]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4932.ts
+
+#EXTINF:-1, tvg-id="ZEE TV UK  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="ZEE TV UK  IPTVultra.com [1920x1080]"  group-title="Unsorted",ZEE TV UK  IPTVultra.com [1920x1080]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5040.ts
+
+#EXTINF:-1, tvg-id="CHARDIKALA TIME TV  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="CHARDIKALA TIME TV  IPTVultra.com [640x480]"  group-title="Unsorted",CHARDIKALA TIME TV  IPTVultra.com [640x480]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4935.ts
+
+#EXTINF:-1, tvg-id="ALPHA ETC PUNJABI  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="ALPHA ETC PUNJABI  IPTVultra.com [704x400]"  group-title="Unsorted",ALPHA ETC PUNJABI  IPTVultra.com [704x400]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4938.ts
+
+#EXTINF:-1, tvg-id="SONY MAX 2  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="SONY MAX 2  IPTVultra.com [704x400]"  group-title="Unsorted",SONY MAX 2  IPTVultra.com [704x400]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5016.ts
+
+#EXTINF:-1, tvg-id="B4U MOVIE  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="B4U MOVIE  IPTVultra.com [640x368]"  group-title="Unsorted",B4U MOVIE  IPTVultra.com [640x368]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5013.ts
+
+#EXTINF:-1, tvg-id="SIKH Channel  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="SIKH Channel  IPTVultra.com [1280x720]"  group-title="Unsorted",SIKH Channel  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4916.ts
+
+#EXTINF:-1, tvg-id="9X TASHANN  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="9X TASHANN  IPTVultra.com [720x416]"  group-title="Unsorted",9X TASHANN  IPTVultra.com [720x416]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4939.ts
+
+#EXTINF:-1, tvg-id="MUSIC INDIA  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="MUSIC INDIA  IPTVultra.com [1920x1080]"  group-title="Unsorted",MUSIC INDIA  IPTVultra.com [1920x1080]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4945.ts
+
+#EXTINF:-1, tvg-id="5AAB TV  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="5AAB TV  IPTVultra.com [1280x720]"  group-title="Unsorted",5AAB TV  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4940.ts
+
+#EXTINF:-1, tvg-id="SONY MAX UK  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="SONY MAX UK  IPTVultra.com [704x400]"  group-title="Unsorted",SONY MAX UK  IPTVultra.com [704x400]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5015.ts
+
+#EXTINF:-1, tvg-id="SIKH TV  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="SIKH TV  IPTVultra.com [1280x720]"  group-title="Unsorted",SIKH TV  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4915.ts
+
+#EXTINF:-1, tvg-id="STAR PLUS HD UK  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="STAR PLUS HD UK  IPTVultra.com [1280x720]"  group-title="Unsorted",STAR PLUS HD UK  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5023.ts
+
+#EXTINF:-1, tvg-id="SONY TV HD  IPTVultra.com [768x432]" tvg-logo="Logo N/A" tvg-name="SONY TV HD  IPTVultra.com [768x432]"  group-title="Unsorted",SONY TV HD  IPTVultra.com [768x432]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5017.ts
+
+#EXTINF:-1, tvg-id="ALPHA ETC PUNJABI  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="ALPHA ETC PUNJABI  IPTVultra.com [704x400]"  group-title="Unsorted",ALPHA ETC PUNJABI  IPTVultra.com [704x400]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4931.ts
+
+#EXTINF:-1, tvg-id="JUS ONE TV  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="JUS ONE TV  IPTVultra.com [720x416]"  group-title="Unsorted",JUS ONE TV  IPTVultra.com [720x416]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4926.ts
+
+#EXTINF:-1, tvg-id="ZEE MIX  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE MIX  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE MIX  IPTVultra.com [640x480]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5029.ts
+
+#EXTINF:-1, tvg-id="ZEE CINEMA HD  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE CINEMA HD  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE CINEMA HD  IPTVultra.com [640x480]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5033.ts
+
+#EXTINF:-1, tvg-id="JUS PUNJABI TV  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="JUS PUNJABI TV  IPTVultra.com [720x416]"  group-title="Unsorted",JUS PUNJABI TV  IPTVultra.com [720x416]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4925.ts
+
+#EXTINF:-1, tvg-id="COLORS UK  IPTVultra.com [1024x576]" tvg-logo="Logo N/A" tvg-name="COLORS UK  IPTVultra.com [1024x576]"  group-title="Unsorted",COLORS UK  IPTVultra.com [1024x576]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5011.ts
+
+#EXTINF:-1, tvg-id="CARTOON  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="CARTOON  IPTVultra.com [720x416]"  group-title="Unsorted",CARTOON  IPTVultra.com [720x416]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4944.ts
+
+#EXTINF:-1, tvg-id="ZEE PUNJABI  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="ZEE PUNJABI  IPTVultra.com [704x400]"  group-title="Unsorted",ZEE PUNJABI  IPTVultra.com [704x400]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5026.ts
+
+#EXTINF:-1, tvg-id="ZEE ACTION  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="ZEE ACTION  IPTVultra.com [704x400]"  group-title="Unsorted",ZEE ACTION  IPTVultra.com [704x400]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5034.ts
+
+#EXTINF:-1, tvg-id="PTC Punjabi  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="PTC Punjabi  IPTVultra.com [720x416]"  group-title="Unsorted",PTC Punjabi  IPTVultra.com [720x416]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4918.ts
+
+#EXTINF:-1, tvg-id="ZEE TV HD BACKUP  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="ZEE TV HD BACKUP  IPTVultra.com [1280x720]"  group-title="Unsorted",ZEE TV HD BACKUP  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5030.ts
+
+#EXTINF:-1, tvg-id="AONE PUNJABIi TV  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="AONE PUNJABIi TV  IPTVultra.com [1920x1080]"  group-title="Unsorted",AONE PUNJABIi TV  IPTVultra.com [1920x1080]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4937.ts
+
+#EXTINF:-1, tvg-id="B4U PLUS  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="B4U PLUS  IPTVultra.com [640x368]"  group-title="Unsorted",B4U PLUS  IPTVultra.com [640x368]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5010.ts
+
+#EXTINF:-1, tvg-id="ZEE MARATHI  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE MARATHI  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE MARATHI  IPTVultra.com [640x480]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4947.ts
+
+#EXTINF:-1, tvg-id="DESI BEATS HD  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="DESI BEATS HD  IPTVultra.com [720x576]"  group-title="Unsorted",DESI BEATS HD  IPTVultra.com [720x576]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4933.ts
+
+#EXTINF:-1, tvg-id="ZEE PUNJAB  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="ZEE PUNJAB  IPTVultra.com [704x400]"  group-title="Unsorted",ZEE PUNJAB  IPTVultra.com [704x400]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4913.ts
+
+#EXTINF:-1, tvg-id="ZEE CLASSIC  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="ZEE CLASSIC  IPTVultra.com [1920x1080]"  group-title="Unsorted",ZEE CLASSIC  IPTVultra.com [1920x1080]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5041.ts
+
+#EXTINF:-1, tvg-id="STAR LIFE OK  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="STAR LIFE OK  IPTVultra.com [1280x720]"  group-title="Unsorted",STAR LIFE OK  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5020.ts
+
+#EXTINF:-1, tvg-id="STAR PLUS HD UK  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="STAR PLUS HD UK  IPTVultra.com [1280x720]"  group-title="Unsorted",STAR PLUS HD UK  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5021.ts
+
+#EXTINF:-1, tvg-id="STAR MOVIES  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="STAR MOVIES  IPTVultra.com [720x576]"  group-title="Unsorted",STAR MOVIES  IPTVultra.com [720x576]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4949.ts
+
+#EXTINF:-1, tvg-id="STAR SPORTS 2 HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="STAR SPORTS 2 HD  IPTVultra.com [1280x720]"  group-title="Unsorted",STAR SPORTS 2 HD  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4953.ts
+
+#EXTINF:-1, tvg-id="STAR SPORTS 4 HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="STAR SPORTS 4 HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",STAR SPORTS 4 HD  IPTVultra.com [1920x1080]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4951.ts
+
+#EXTINF:-1, tvg-id="STAR SPORTS 3 HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="STAR SPORTS 3 HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",STAR SPORTS 3 HD  IPTVultra.com [1920x1080]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4952.ts
+
+#EXTINF:-1, tvg-id="TV84  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="TV84  IPTVultra.com [640x480]"  group-title="Unsorted",TV84  IPTVultra.com [640x480]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4914.ts
+
+#EXTINF:-1, tvg-id="WILLOW CRICKET HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="WILLOW CRICKET HD  IPTVultra.com [1280x720]"  group-title="Unsorted",WILLOW CRICKET HD  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4955.ts
+
+#EXTINF:-1, tvg-id="LF LIVING FOODZ  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="LF LIVING FOODZ  IPTVultra.com [640x480]"  group-title="Unsorted",LF LIVING FOODZ  IPTVultra.com [640x480]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5038.ts
+
+#EXTINF:-1, tvg-id="QURAN TV  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="QURAN TV  IPTVultra.com [720x576]"  group-title="Unsorted",QURAN TV  IPTVultra.com [720x576]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5027.ts
+
+#EXTINF:-1, tvg-id="UTV MOVIES INTERNATIONAL  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="UTV MOVIES INTERNATIONAL  IPTVultra.com [720x416]"  group-title="Unsorted",UTV MOVIES INTERNATIONAL  IPTVultra.com [720x416]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/5009.ts
+
+#EXTINF:-1, tvg-id="STAR SPORTS 1 HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="STAR SPORTS 1 HD  IPTVultra.com [1280x720]"  group-title="Unsorted",STAR SPORTS 1 HD  IPTVultra.com [1280x720]
+http://xtreme.webhop.me:8000/live/ampadu/ampadu/4954.ts
+
+#EXTINF:-1, tvg-id="WIND RIVER 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x800]" tvg-logo="Logo N/A" tvg-name="WIND RIVER 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x800]"  group-title="Unsorted",WIND RIVER 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x800]
+http://xtreme.webhop.me:8000/movie/ampadu/ampadu/8267.mkv
+
+#EXTINF:-1, tvg-id="KING ARTHUR LEGEND OF THE SWORD 2017 BRRIP 720P DD5.1 ingebakken NL SUBS  IPTVultra.com [1280x532]" tvg-logo="Logo N/A" tvg-name="KING ARTHUR LEGEND OF THE SWORD 2017 BRRIP 720P DD5.1 ingebakken NL SUBS  IPTVultra.com [1280x532]"  group-title="Unsorted",KING ARTHUR LEGEND OF THE SWORD 2017 BRRIP 720P DD5.1 ingebakken NL SUBS  IPTVultra.com [1280x532]
+http://xtreme.webhop.me:8000/movie/ampadu/ampadu/6132.mkv
+
+#EXTINF:-1, tvg-id="KING ARTHUR LEGEND OF THE SWORD 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x792]" tvg-logo="Logo N/A" tvg-name="KING ARTHUR LEGEND OF THE SWORD 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x792]"  group-title="Unsorted",KING ARTHUR LEGEND OF THE SWORD 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x792]
+http://xtreme.webhop.me:8000/movie/ampadu/ampadu/6133.mkv
+
+#EXTINF:-1, tvg-id="SING 2016 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1920x1040]" tvg-logo="Logo N/A" tvg-name="SING 2016 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1920x1040]"  group-title="Unsorted",SING 2016 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1920x1040]
+http://xtreme.webhop.me:8000/movie/ampadu/ampadu/5704.mkv
+
+#EXTINF:-1, tvg-id="CINE POLAR  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="CINE POLAR  IPTVultra.com [1280x720]"  group-title="Unsorted",CINE POLAR  IPTVultra.com [1280x720]
+http://163.172.31.134:5890/live/boga/boga/4752.ts
+
+#EXTINF:-1, tvg-id="CINE POLAR Full HD  IPTVultra.com [1920x1088]" tvg-logo="Logo N/A" tvg-name="CINE POLAR Full HD  IPTVultra.com [1920x1088]"  group-title="Unsorted",CINE POLAR Full HD  IPTVultra.com [1920x1088]
+http://163.172.31.134:5890/live/boga/boga/2689.ts
+
+#EXTINF:-1, tvg-id="CINE FX  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="CINE FX  IPTVultra.com [1280x720]"  group-title="Unsorted",CINE FX  IPTVultra.com [1280x720]
+http://163.172.31.134:5890/live/boga/boga/4751.ts
+
+#EXTINF:-1, tvg-id="CINE FX Full HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="CINE FX Full HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",CINE FX Full HD  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/2690.ts
+
+#EXTINF:-1, tvg-id="SEASONS Full HD  IPTVultra.com [1920x1088]" tvg-logo="Logo N/A" tvg-name="SEASONS Full HD  IPTVultra.com [1920x1088]"  group-title="Unsorted",SEASONS Full HD  IPTVultra.com [1920x1088]
+http://163.172.31.134:5890/live/boga/boga/946.ts
+
+#EXTINF:-1, tvg-id="DISCOVERY CHANNEL Full HD  IPTVultra.com [1920x1088]" tvg-logo="Logo N/A" tvg-name="DISCOVERY CHANNEL Full HD  IPTVultra.com [1920x1088]"  group-title="Unsorted",DISCOVERY CHANNEL Full HD  IPTVultra.com [1920x1088]
+http://163.172.31.134:5890/live/boga/boga/935.ts
+
+#EXTINF:-1, tvg-id="IND|Zee TV  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IND|Zee TV  IPTVultra.com [1920x1080]"  group-title="Unsorted",IND|Zee TV  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/934.ts
+
+#EXTINF:-1, tvg-id="beIN SPORTS 3 Full HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="beIN SPORTS 3 Full HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",beIN SPORTS 3 Full HD  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/943.ts
+
+#EXTINF:-1, tvg-id="ANIMAUX Full HD  IPTVultra.com [1920x1088]" tvg-logo="Logo N/A" tvg-name="ANIMAUX Full HD  IPTVultra.com [1920x1088]"  group-title="Unsorted",ANIMAUX Full HD  IPTVultra.com [1920x1088]
+http://163.172.31.134:5890/live/boga/boga/945.ts
+
+#EXTINF:-1, tvg-id="IND|Zee action  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IND|Zee action  IPTVultra.com [1920x1080]"  group-title="Unsorted",IND|Zee action  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/939.ts
+
+#EXTINF:-1, tvg-id="EUROSPORT 1 Full HD  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="EUROSPORT 1 Full HD  IPTVultra.com [720x576]"  group-title="Unsorted",EUROSPORT 1 Full HD  IPTVultra.com [720x576]
+http://163.172.31.134:5890/live/boga/boga/936.ts
+
+#EXTINF:-1, tvg-id="IND|Star Plus  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IND|Star Plus  IPTVultra.com [1920x1080]"  group-title="Unsorted",IND|Star Plus  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/1501.ts
+
+#EXTINF:-1, tvg-id="IND|Star Gold  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IND|Star Gold  IPTVultra.com [1920x1080]"  group-title="Unsorted",IND|Star Gold  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/1502.ts
+
+#EXTINF:-1, tvg-id="IND|star Life OK  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IND|star Life OK  IPTVultra.com [1920x1080]"  group-title="Unsorted",IND|star Life OK  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/937.ts
+
+#EXTINF:-1, tvg-id="IND|Star Sport 1  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IND|Star Sport 1  IPTVultra.com [1920x1080]"  group-title="Unsorted",IND|Star Sport 1  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/1503.ts
+
+#EXTINF:-1, tvg-id="IND|Star Sport 2  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IND|Star Sport 2  IPTVultra.com [1920x1080]"  group-title="Unsorted",IND|Star Sport 2  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/1504.ts
+
+#EXTINF:-1, tvg-id="IND|Star Sport 3  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IND|Star Sport 3  IPTVultra.com [1920x1080]"  group-title="Unsorted",IND|Star Sport 3  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/1505.ts
+
+#EXTINF:-1, tvg-id="IND|Star Sport 4  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IND|Star Sport 4  IPTVultra.com [1920x1080]"  group-title="Unsorted",IND|Star Sport 4  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/1506.ts
+
+#EXTINF:-1, tvg-id="beIN MAX 1 ES  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="beIN MAX 1 ES  IPTVultra.com [1920x1080]"  group-title="Unsorted",beIN MAX 1 ES  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/947.ts
+
+#EXTINF:-1, tvg-id="AXN WHITE HD ES  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="AXN WHITE HD ES  IPTVultra.com [1920x1080]"  group-title="Unsorted",AXN WHITE HD ES  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/938.ts
+
+#EXTINF:-1, tvg-id="IND|B4U Movies  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IND|B4U Movies  IPTVultra.com [1920x1080]"  group-title="Unsorted",IND|B4U Movies  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/940.ts
+
+#EXTINF:-1, tvg-id="beIN MAX 2 HD ES  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="beIN MAX 2 HD ES  IPTVultra.com [1920x1080]"  group-title="Unsorted",beIN MAX 2 HD ES  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/948.ts
+
+#EXTINF:-1, tvg-id="beIN SPORTS HD ES  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="beIN SPORTS HD ES  IPTVultra.com [1920x1080]"  group-title="Unsorted",beIN SPORTS HD ES  IPTVultra.com [1920x1080]
+http://163.172.31.134:5890/live/boga/boga/944.ts
+
+#EXTINF:-1, tvg-id="Channel V HD  IPTVultra.com [864x480]" tvg-logo="Logo N/A" tvg-name="Channel V HD  IPTVultra.com [864x480]"  group-title="Unsorted",Channel V HD  IPTVultra.com [864x480]
+http://217.23.1.3:6969/live/franky/franky/853.ts
+
+#EXTINF:-1, tvg-id="Asianet Plus  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="Asianet Plus  IPTVultra.com [704x400]"  group-title="Unsorted",Asianet Plus  IPTVultra.com [704x400]
+http://217.23.1.3:6969/live/franky/franky/394.ts
+
+#EXTINF:-1, tvg-id="Asianet TV US  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="Asianet TV US  IPTVultra.com [704x400]"  group-title="Unsorted",Asianet TV US  IPTVultra.com [704x400]
+http://217.23.1.3:6969/live/franky/franky/393.ts
+
+#EXTINF:-1, tvg-id="Rupashi bangla  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="Rupashi bangla  IPTVultra.com [704x400]"  group-title="Unsorted",Rupashi bangla  IPTVultra.com [704x400]
+http://217.23.1.3:6969/live/franky/franky/891.ts
+
+#EXTINF:-1, tvg-id="IN | VIP PUNJBI HD  IPTVultra.com [720x480]" tvg-logo="Logo N/A" tvg-name="IN | VIP PUNJBI HD  IPTVultra.com [720x480]"  group-title="Unsorted",IN | VIP PUNJBI HD  IPTVultra.com [720x480]
+http://51.15.161.153:1557/live/mustaf/mustafa/5914.ts
+
+#EXTINF:-1, tvg-id="FIN: TV7  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="FIN: TV7  IPTVultra.com [640x368]"  group-title="Unsorted",FIN: TV7  IPTVultra.com [640x368]
+http://51.15.161.153:1557/live/mustaf/mustafa/8880.ts
+
+#EXTINF:-1, tvg-id="FIN: 4 Maailma  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="FIN: 4 Maailma  IPTVultra.com [1920x1080]"  group-title="Unsorted",FIN: 4 Maailma  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/6275.ts
+
+#EXTINF:-1, tvg-id="FIN: mtv3  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="FIN: mtv3  IPTVultra.com [1280x720]"  group-title="Unsorted",FIN: mtv3  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/6274.ts
+
+#EXTINF:-1, tvg-id="FIN: liv Channel  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="FIN: liv Channel  IPTVultra.com [1920x1080]"  group-title="Unsorted",FIN: liv Channel  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/6272.ts
+
+#EXTINF:-1, tvg-id="FIN: C More Juniori  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="FIN: C More Juniori  IPTVultra.com [1920x1080]"  group-title="Unsorted",FIN: C More Juniori  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/9742.ts
+
+#EXTINF:-1, tvg-id="FIN: C More MAX HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="FIN: C More MAX HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",FIN: C More MAX HD  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/9741.ts
+
+#EXTINF:-1, tvg-id="FIN: Ruutu+ Lapset  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="FIN: Ruutu+ Lapset  IPTVultra.com [1920x1080]"  group-title="Unsorted",FIN: Ruutu+ Lapset  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/9744.ts
+
+#EXTINF:-1, tvg-id="FIN: Discovery Channel  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="FIN: Discovery Channel  IPTVultra.com [1920x1080]"  group-title="Unsorted",FIN: Discovery Channel  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/9743.ts
+
+#EXTINF:-1, tvg-id="FIN: YLE Nyheter  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="FIN: YLE Nyheter  IPTVultra.com [1920x1080]"  group-title="Unsorted",FIN: YLE Nyheter  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/6280.ts
+
+#EXTINF:-1, tvg-id="FIN: sub TV  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="FIN: sub TV  IPTVultra.com [720x576]"  group-title="Unsorted",FIN: sub TV  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/6279.ts
+
+#EXTINF:-1, tvg-id="FIN: YLE1  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="FIN: YLE1  IPTVultra.com [720x576]"  group-title="Unsorted",FIN: YLE1  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/6270.ts
+
+#EXTINF:-1, tvg-id="FIN: PRO2  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="FIN: PRO2  IPTVultra.com [1920x1080]"  group-title="Unsorted",FIN: PRO2  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/6278.ts
+
+#EXTINF:-1, tvg-id="FIN: PRO 1  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="FIN: PRO 1  IPTVultra.com [1920x1080]"  group-title="Unsorted",FIN: PRO 1  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/6277.ts
+
+#EXTINF:-1, tvg-id="FIN: YLE2  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="FIN: YLE2  IPTVultra.com [720x576]"  group-title="Unsorted",FIN: YLE2  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/6271.ts
+
+#EXTINF:-1, tvg-id="FIN: mtv Junior  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="FIN: mtv Junior  IPTVultra.com [1920x1080]"  group-title="Unsorted",FIN: mtv Junior  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/6273.ts
+
+#EXTINF:-1, tvg-id="IN | Movies OK TV  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Movies OK TV  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Movies OK TV  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5908.ts
+
+#EXTINF:-1, tvg-id="IN | Star Plus HD  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Star Plus HD  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Star Plus HD  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5909.ts
+
+#EXTINF:-1, tvg-id="IN | UTV MOVIES HD  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | UTV MOVIES HD  IPTVultra.com [720x416]"  group-title="Unsorted",IN | UTV MOVIES HD  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5901.ts
+
+#EXTINF:-1, tvg-id="IN | Movies OK HD  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Movies OK HD  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Movies OK HD  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5903.ts
+
+#EXTINF:-1, tvg-id="IN | Sony Six HD  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Sony Six HD  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Sony Six HD  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5905.ts
+
+#EXTINF:-1, tvg-id="IN | B4U Movies TV  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | B4U Movies TV  IPTVultra.com [720x416]"  group-title="Unsorted",IN | B4U Movies TV  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5896.ts
+
+#EXTINF:-1, tvg-id="IN | Life O.K TV  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | Life O.K TV  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | Life O.K TV  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5907.ts
+
+#EXTINF:-1, tvg-id="IN | Star Movies HD  IPTVultra.com [768x576]" tvg-logo="Logo N/A" tvg-name="IN | Star Movies HD  IPTVultra.com [768x576]"  group-title="Unsorted",IN | Star Movies HD  IPTVultra.com [768x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5910.ts
+
+#EXTINF:-1, tvg-id="IN | Zee TV HD  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Zee TV HD  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Zee TV HD  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5898.ts
+
+#EXTINF:-1, tvg-id="IN | And Picture HD  IPTVultra.com [960x544]" tvg-logo="Logo N/A" tvg-name="IN | And Picture HD  IPTVultra.com [960x544]"  group-title="Unsorted",IN | And Picture HD  IPTVultra.com [960x544]
+http://51.15.161.153:1557/live/mustaf/mustafa/5902.ts
+
+#EXTINF:-1, tvg-id="IN | ZEE Action  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | ZEE Action  IPTVultra.com [704x400]"  group-title="Unsorted",IN | ZEE Action  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5899.ts
+
+#EXTINF:-1, tvg-id="IN | B4U Music / B4U Plus  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | B4U Music / B4U Plus  IPTVultra.com [720x576]"  group-title="Unsorted",IN | B4U Music / B4U Plus  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5897.ts
+
+#EXTINF:-1, tvg-id="IN | Asianet (lokal)  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | Asianet (lokal)  IPTVultra.com [720x576]"  group-title="Unsorted",IN | Asianet (lokal)  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5856.ts
+
+#EXTINF:-1, tvg-id="IN | ZEE BOLLYWOOD HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | ZEE BOLLYWOOD HD  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | ZEE BOLLYWOOD HD  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5900.ts
+
+#EXTINF:-1, tvg-id="IN | MUSIC INDIA  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="IN | MUSIC INDIA  IPTVultra.com [640x368]"  group-title="Unsorted",IN | MUSIC INDIA  IPTVultra.com [640x368]
+http://51.15.161.153:1557/live/mustaf/mustafa/5913.ts
+
+#EXTINF:-1, tvg-id="IN | Sony MIX HD  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | Sony MIX HD  IPTVultra.com [720x576]"  group-title="Unsorted",IN | Sony MIX HD  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5912.ts
+
+#EXTINF:-1, tvg-id="IN | UTV Movies International  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | UTV Movies International  IPTVultra.com [720x416]"  group-title="Unsorted",IN | UTV Movies International  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5904.ts
+
+#EXTINF:-1, tvg-id="IN | ZEE CINEMA HD INDIA  IPTVultra.com [960x544]" tvg-logo="Logo N/A" tvg-name="IN | ZEE CINEMA HD INDIA  IPTVultra.com [960x544]"  group-title="Unsorted",IN | ZEE CINEMA HD INDIA  IPTVultra.com [960x544]
+http://51.15.161.153:1557/live/mustaf/mustafa/5906.ts
+
+#EXTINF:-1, tvg-id="IN | Sony Set Max Hd  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="IN | Sony Set Max Hd  IPTVultra.com [544x576]"  group-title="Unsorted",IN | Sony Set Max Hd  IPTVultra.com [544x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5911.ts
+
+#EXTINF:-1, tvg-id="IN | Asianet Movies  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | Asianet Movies  IPTVultra.com [720x416]"  group-title="Unsorted",IN | Asianet Movies  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5857.ts
+
+#EXTINF:-1, tvg-id="IN | Asianet Plus  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Asianet Plus  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Asianet Plus  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5859.ts
+
+#EXTINF:-1, tvg-id="IN | Asianet News  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Asianet News  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Asianet News  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5858.ts
+
+#EXTINF:-1, tvg-id="IN | Jaya Max USA  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | Jaya Max USA  IPTVultra.com [720x416]"  group-title="Unsorted",IN | Jaya Max USA  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5861.ts
+
+#EXTINF:-1, tvg-id="IN | Colours UK  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="IN | Colours UK  IPTVultra.com [544x576]"  group-title="Unsorted",IN | Colours UK  IPTVultra.com [544x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5860.ts
+
+#EXTINF:-1, tvg-id="IN | Jaya Plus  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Jaya Plus  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Jaya Plus  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5863.ts
+
+#EXTINF:-1, tvg-id="IN | M Tunes  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="IN | M Tunes  IPTVultra.com [640x368]"  group-title="Unsorted",IN | M Tunes  IPTVultra.com [640x368]
+http://51.15.161.153:1557/live/mustaf/mustafa/5865.ts
+
+#EXTINF:-1, tvg-id="IN | Jaya TV  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Jaya TV  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Jaya TV  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5864.ts
+
+#EXTINF:-1, tvg-id="IN | Sony Max 2  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Sony Max 2  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Sony Max 2  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5871.ts
+
+#EXTINF:-1, tvg-id="IN | Star Jalsha  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="IN | Star Jalsha  IPTVultra.com [544x576]"  group-title="Unsorted",IN | Star Jalsha  IPTVultra.com [544x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5873.ts
+
+#EXTINF:-1, tvg-id="IN | Star Sports 1  IPTVultra.com [768x576]" tvg-logo="Logo N/A" tvg-name="IN | Star Sports 1  IPTVultra.com [768x576]"  group-title="Unsorted",IN | Star Sports 1  IPTVultra.com [768x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5874.ts
+
+#EXTINF:-1, tvg-id="IN | Star Sports 4  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | Star Sports 4  IPTVultra.com [720x576]"  group-title="Unsorted",IN | Star Sports 4  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5877.ts
+
+#EXTINF:-1, tvg-id="IN | Star Sports 3  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | Star Sports 3  IPTVultra.com [720x576]"  group-title="Unsorted",IN | Star Sports 3  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5876.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Foodz  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | Zee Foodz  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | Zee Foodz  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5887.ts
+
+#EXTINF:-1, tvg-id="IN | Sony ESPN  IPTVultra.com [768x576]" tvg-logo="Logo N/A" tvg-name="IN | Sony ESPN  IPTVultra.com [768x576]"  group-title="Unsorted",IN | Sony ESPN  IPTVultra.com [768x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5920.ts
+
+#EXTINF:-1, tvg-id="IN | Sony Max 2  IPTVultra.com [768x432]" tvg-logo="Logo N/A" tvg-name="IN | Sony Max 2  IPTVultra.com [768x432]"  group-title="Unsorted",IN | Sony Max 2  IPTVultra.com [768x432]
+http://51.15.161.153:1557/live/mustaf/mustafa/5870.ts
+
+#EXTINF:-1, tvg-id="IN | TEN 1 HD  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | TEN 1 HD  IPTVultra.com [704x400]"  group-title="Unsorted",IN | TEN 1 HD  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5916.ts
+
+#EXTINF:-1, tvg-id="IN | Zee News  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="IN | Zee News  IPTVultra.com [640x480]"  group-title="Unsorted",IN | Zee News  IPTVultra.com [640x480]
+http://51.15.161.153:1557/live/mustaf/mustafa/5888.ts
+
+#EXTINF:-1, tvg-id="IN | Sony Saab TV  IPTVultra.com [704x576]" tvg-logo="Logo N/A" tvg-name="IN | Sony Saab TV  IPTVultra.com [704x576]"  group-title="Unsorted",IN | Sony Saab TV  IPTVultra.com [704x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5872.ts
+
+#EXTINF:-1, tvg-id="IN | Maa Gold (movies)  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | Maa Gold (movies)  IPTVultra.com [720x416]"  group-title="Unsorted",IN | Maa Gold (movies)  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5866.ts
+
+#EXTINF:-1, tvg-id="IN | Sun TV US  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Sun TV US  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Sun TV US  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5880.ts
+
+#EXTINF:-1, tvg-id="IN | TEN 2  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | TEN 2  IPTVultra.com [704x400]"  group-title="Unsorted",IN | TEN 2  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5917.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Punjabi  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Zee Punjabi  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Zee Punjabi  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5889.ts
+
+#EXTINF:-1, tvg-id="IN | Star Sports 2  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | Star Sports 2  IPTVultra.com [720x576]"  group-title="Unsorted",IN | Star Sports 2  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5875.ts
+
+#EXTINF:-1, tvg-id="IN | Sun TV US  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Sun TV US  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Sun TV US  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5879.ts
+
+#EXTINF:-1, tvg-id="IN | Maa Music  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | Maa Music  IPTVultra.com [720x416]"  group-title="Unsorted",IN | Maa Music  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5867.ts
+
+#EXTINF:-1, tvg-id="IN | WILLOW  IPTVultra.com [864x480]" tvg-logo="Logo N/A" tvg-name="IN | WILLOW  IPTVultra.com [864x480]"  group-title="Unsorted",IN | WILLOW  IPTVultra.com [864x480]
+http://51.15.161.153:1557/live/mustaf/mustafa/5919.ts
+
+#EXTINF:-1, tvg-id="IN | Sony TV HD Asia  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | Sony TV HD Asia  IPTVultra.com [720x576]"  group-title="Unsorted",IN | Sony TV HD Asia  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5869.ts
+
+#EXTINF:-1, tvg-id="IN | Surya TV  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | Surya TV  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | Surya TV  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5882.ts
+
+#EXTINF:-1, tvg-id="IN | TEN 3  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | TEN 3  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | TEN 3  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5918.ts
+
+#EXTINF:-1, tvg-id="IN | Santhora TV  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | Santhora TV  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | Santhora TV  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5868.ts
+
+#EXTINF:-1, tvg-id="IN | TEN/OSN CRICKET  IPTVultra.com [768x576]" tvg-logo="Logo N/A" tvg-name="IN | TEN/OSN CRICKET  IPTVultra.com [768x576]"  group-title="Unsorted",IN | TEN/OSN CRICKET  IPTVultra.com [768x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5915.ts
+
+#EXTINF:-1, tvg-id="IN | Jaya Movies  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Jaya Movies  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Jaya Movies  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5862.ts
+
+#EXTINF:-1, tvg-id="IN | Sun Music  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Sun Music  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Sun Music  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5878.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Bangla  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="IN | Zee Bangla  IPTVultra.com [640x480]"  group-title="Unsorted",IN | Zee Bangla  IPTVultra.com [640x480]
+http://51.15.161.153:1557/live/mustaf/mustafa/5884.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Smile  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | Zee Smile  IPTVultra.com [720x416]"  group-title="Unsorted",IN | Zee Smile  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5890.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Anmol Cinema  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="IN | Zee Anmol Cinema  IPTVultra.com [640x480]"  group-title="Unsorted",IN | Zee Anmol Cinema  IPTVultra.com [640x480]
+http://51.15.161.153:1557/live/mustaf/mustafa/5883.ts
+
+#EXTINF:-1, tvg-id="IN | Bollywood Movies  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | Bollywood Movies  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | Bollywood Movies  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5953.ts
+
+#EXTINF:-1, tvg-id="IN | Zing  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | Zing  IPTVultra.com [720x576]"  group-title="Unsorted",IN | Zing  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5894.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Business  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | Zee Business  IPTVultra.com [720x416]"  group-title="Unsorted",IN | Zee Business  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5885.ts
+
+#EXTINF:-1, tvg-id="IN | Star Gold HD  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="IN | Star Gold HD  IPTVultra.com [544x576]"  group-title="Unsorted",IN | Star Gold HD  IPTVultra.com [544x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5893.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Studio HD  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="IN | Zee Studio HD  IPTVultra.com [640x480]"  group-title="Unsorted",IN | Zee Studio HD  IPTVultra.com [640x480]
+http://51.15.161.153:1557/live/mustaf/mustafa/5891.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Classic  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Zee Classic  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Zee Classic  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5886.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Tamil TV  IPTVultra.com [176x144]" tvg-logo="Logo N/A" tvg-name="IN | Zee Tamil TV  IPTVultra.com [176x144]"  group-title="Unsorted",IN | Zee Tamil TV  IPTVultra.com [176x144]
+http://51.15.161.153:1557/live/mustaf/mustafa/5892.ts
+
+#EXTINF:-1, tvg-id="IN | Ten Sports  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | Ten Sports  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | Ten Sports  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5881.ts
+
+#EXTINF:-1, tvg-id="IN | CBN Cricket  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | CBN Cricket  IPTVultra.com [720x576]"  group-title="Unsorted",IN | CBN Cricket  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/6005.ts
+
+#EXTINF:-1, tvg-id="IN | 24 Ghanta  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | 24 Ghanta  IPTVultra.com [720x416]"  group-title="Unsorted",IN | 24 Ghanta  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5947.ts
+
+#EXTINF:-1, tvg-id="IN | Colors HD  IPTVultra.com [1024x576]" tvg-logo="Logo N/A" tvg-name="IN | Colors HD  IPTVultra.com [1024x576]"  group-title="Unsorted",IN | Colors HD  IPTVultra.com [1024x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5952.ts
+
+#EXTINF:-1, tvg-id="IN | 9XM  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | 9XM  IPTVultra.com [704x400]"  group-title="Unsorted",IN | 9XM  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5958.ts
+
+#EXTINF:-1, tvg-id="IN | Cartoon Network Hindi  IPTVultra.com [432x240]" tvg-logo="Logo N/A" tvg-name="IN | Cartoon Network Hindi  IPTVultra.com [432x240]"  group-title="Unsorted",IN | Cartoon Network Hindi  IPTVultra.com [432x240]
+http://51.15.161.153:1557/live/mustaf/mustafa/5995.ts
+
+#EXTINF:-1, tvg-id="IN | Chakde TV Punjabi  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | Chakde TV Punjabi  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | Chakde TV Punjabi  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5989.ts
+
+#EXTINF:-1, tvg-id="IN | DESI BEATS HD Punjabi  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | DESI BEATS HD Punjabi  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | DESI BEATS HD Punjabi  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5986.ts
+
+#EXTINF:-1, tvg-id="IN | Desi Channel Punjabi  IPTVultra.com [720x400]" tvg-logo="Logo N/A" tvg-name="IN | Desi Channel Punjabi  IPTVultra.com [720x400]"  group-title="Unsorted",IN | Desi Channel Punjabi  IPTVultra.com [720x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5985.ts
+
+#EXTINF:-1, tvg-id="IN | ATN/NRDTV News Punjabi  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | ATN/NRDTV News Punjabi  IPTVultra.com [720x576]"  group-title="Unsorted",IN | ATN/NRDTV News Punjabi  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5994.ts
+
+#EXTINF:-1, tvg-id="IN | MH1 MUSIC  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="IN | MH1 MUSIC  IPTVultra.com [640x368]"  group-title="Unsorted",IN | MH1 MUSIC  IPTVultra.com [640x368]
+http://51.15.161.153:1557/live/mustaf/mustafa/5983.ts
+
+#EXTINF:-1, tvg-id="IN | Gurbani TV Punjabi  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IN | Gurbani TV Punjabi  IPTVultra.com [1920x1080]"  group-title="Unsorted",IN | Gurbani TV Punjabi  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/5984.ts
+
+#EXTINF:-1, tvg-id="IN | Flowers Tv  IPTVultra.com [176x144]" tvg-logo="Logo N/A" tvg-name="IN | Flowers Tv  IPTVultra.com [176x144]"  group-title="Unsorted",IN | Flowers Tv  IPTVultra.com [176x144]
+http://51.15.161.153:1557/live/mustaf/mustafa/5945.ts
+
+#EXTINF:-1, tvg-id="IN | JHANJAR HD Punjabi  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IN | JHANJAR HD Punjabi  IPTVultra.com [1920x1080]"  group-title="Unsorted",IN | JHANJAR HD Punjabi  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/5981.ts
+
+#EXTINF:-1, tvg-id="IN | Living Food Food  IPTVultra.com [480x368]" tvg-logo="Logo N/A" tvg-name="IN | Living Food Food  IPTVultra.com [480x368]"  group-title="Unsorted",IN | Living Food Food  IPTVultra.com [480x368]
+http://51.15.161.153:1557/live/mustaf/mustafa/5944.ts
+
+#EXTINF:-1, tvg-id="IN | MTV INDIA  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | MTV INDIA  IPTVultra.com [704x400]"  group-title="Unsorted",IN | MTV INDIA  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5955.ts
+
+#EXTINF:-1, tvg-id="IN | PTC Chak De Punjabi  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | PTC Chak De Punjabi  IPTVultra.com [704x400]"  group-title="Unsorted",IN | PTC Chak De Punjabi  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5975.ts
+
+#EXTINF:-1, tvg-id="IN | RE Gulistaan News  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | RE Gulistaan News  IPTVultra.com [720x576]"  group-title="Unsorted",IN | RE Gulistaan News  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5972.ts
+
+#EXTINF:-1, tvg-id="IN | Media Punjabi  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | Media Punjabi  IPTVultra.com [720x576]"  group-title="Unsorted",IN | Media Punjabi  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5976.ts
+
+#EXTINF:-1, tvg-id="IN | PTC Punjabi  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="IN | PTC Punjabi  IPTVultra.com [544x576]"  group-title="Unsorted",IN | PTC Punjabi  IPTVultra.com [544x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5973.ts
+
+#EXTINF:-1, tvg-id="IN | Raj TV US  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Raj TV US  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Raj TV US  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5943.ts
+
+#EXTINF:-1, tvg-id="IN | AONE Punjabi  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | AONE Punjabi  IPTVultra.com [720x576]"  group-title="Unsorted",IN | AONE Punjabi  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5974.ts
+
+#EXTINF:-1, tvg-id="IN | JAYA USA  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | JAYA USA  IPTVultra.com [704x400]"  group-title="Unsorted",IN | JAYA USA  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5971.ts
+
+#EXTINF:-1, tvg-id="IN | PBN Music Punjabi  IPTVultra.com [720x400]" tvg-logo="Logo N/A" tvg-name="IN | PBN Music Punjabi  IPTVultra.com [720x400]"  group-title="Unsorted",IN | PBN Music Punjabi  IPTVultra.com [720x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5963.ts
+
+#EXTINF:-1, tvg-id="IN | TV84 Punjabi  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="IN | TV84 Punjabi  IPTVultra.com [640x480]"  group-title="Unsorted",IN | TV84 Punjabi  IPTVultra.com [640x480]
+http://51.15.161.153:1557/live/mustaf/mustafa/5969.ts
+
+#EXTINF:-1, tvg-id="IN | Hamdard TV Punjabi  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IN | Hamdard TV Punjabi  IPTVultra.com [1920x1080]"  group-title="Unsorted",IN | Hamdard TV Punjabi  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/9736.ts
+
+#EXTINF:-1, tvg-id="IN | Ten Action  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Ten Action  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Ten Action  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/6006.ts
+
+#EXTINF:-1, tvg-id="UTV Bindaas  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="UTV Bindaas  IPTVultra.com [1920x1080]"  group-title="Unsorted",UTV Bindaas  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/10768.ts
+
+#EXTINF:-1, tvg-id="IN | Ten Cricket  IPTVultra.com [768x576]" tvg-logo="Logo N/A" tvg-name="IN | Ten Cricket  IPTVultra.com [768x576]"  group-title="Unsorted",IN | Ten Cricket  IPTVultra.com [768x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/6007.ts
+
+#EXTINF:-1, tvg-id="IN | SikhTV Punjabi  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | SikhTV Punjabi  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | SikhTV Punjabi  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5970.ts
+
+#EXTINF:-1, tvg-id="IN | Time Now  IPTVultra.com [720x480]" tvg-logo="Logo N/A" tvg-name="IN | Time Now  IPTVultra.com [720x480]"  group-title="Unsorted",IN | Time Now  IPTVultra.com [720x480]
+http://51.15.161.153:1557/live/mustaf/mustafa/5941.ts
+
+#EXTINF:-1, tvg-id="Star Sports 1 HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="Star Sports 1 HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",Star Sports 1 HD  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/9733.ts
+
+#EXTINF:-1, tvg-id="IN | ABP NEWS  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | ABP NEWS  IPTVultra.com [704x400]"  group-title="Unsorted",IN | ABP NEWS  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5933.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Cinema HD  IPTVultra.com [960x544]" tvg-logo="Logo N/A" tvg-name="IN | Zee Cinema HD  IPTVultra.com [960x544]"  group-title="Unsorted",IN | Zee Cinema HD  IPTVultra.com [960x544]
+http://51.15.161.153:1557/live/mustaf/mustafa/5939.ts
+
+#EXTINF:-1, tvg-id="IN | MH 1 Shradha Punjabi  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="IN | MH 1 Shradha Punjabi  IPTVultra.com [640x368]"  group-title="Unsorted",IN | MH 1 Shradha Punjabi  IPTVultra.com [640x368]
+http://51.15.161.153:1557/live/mustaf/mustafa/5978.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Talkies  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="IN | Zee Talkies  IPTVultra.com [640x480]"  group-title="Unsorted",IN | Zee Talkies  IPTVultra.com [640x480]
+http://51.15.161.153:1557/live/mustaf/mustafa/5936.ts
+
+#EXTINF:-1, tvg-id="Star Plus UK  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="Star Plus UK  IPTVultra.com [1920x1080]"  group-title="Unsorted",Star Plus UK  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/10671.ts
+
+#EXTINF:-1, tvg-id="IN | UTV Bindaas  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | UTV Bindaas  IPTVultra.com [704x400]"  group-title="Unsorted",IN | UTV Bindaas  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5954.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Etc  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | Zee Etc  IPTVultra.com [720x416]"  group-title="Unsorted",IN | Zee Etc  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5938.ts
+
+#EXTINF:-1, tvg-id="IN | Zoom  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Zoom  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Zoom  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5935.ts
+
+#EXTINF:-1, tvg-id="IN | KTV USA  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | KTV USA  IPTVultra.com [720x416]"  group-title="Unsorted",IN | KTV USA  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/5959.ts
+
+#EXTINF:-1, tvg-id="IN | AND TV HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | AND TV HD  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | AND TV HD  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5932.ts
+
+#EXTINF:-1, tvg-id="IN | Saab TV Punjabi  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | Saab TV Punjabi  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | Saab TV Punjabi  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5993.ts
+
+#EXTINF:-1, tvg-id="IN | Star Sports 3  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IN | Star Sports 3  IPTVultra.com [1920x1080]"  group-title="Unsorted",IN | Star Sports 3  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/9731.ts
+
+#EXTINF:-1, tvg-id="IN | 9X Jhakaas  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IN | 9X Jhakaas  IPTVultra.com [1920x1080]"  group-title="Unsorted",IN | 9X Jhakaas  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/9735.ts
+
+#EXTINF:-1, tvg-id="IN | Chardiala TIME TV Punjabi  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IN | Chardiala TIME TV Punjabi  IPTVultra.com [1920x1080]"  group-title="Unsorted",IN | Chardiala TIME TV Punjabi  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/9738.ts
+
+#EXTINF:-1, tvg-id="IN | Star Vijay  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Star Vijay  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Star Vijay  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5948.ts
+
+#EXTINF:-1, tvg-id="IN | Ten Golf HD  IPTVultra.com [480x272]" tvg-logo="Logo N/A" tvg-name="IN | Ten Golf HD  IPTVultra.com [480x272]"  group-title="Unsorted",IN | Ten Golf HD  IPTVultra.com [480x272]
+http://51.15.161.153:1557/live/mustaf/mustafa/6009.ts
+
+#EXTINF:-1, tvg-id="IN | Star Life OK U.K.  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="IN | Star Life OK U.K.  IPTVultra.com [544x576]"  group-title="Unsorted",IN | Star Life OK U.K.  IPTVultra.com [544x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5949.ts
+
+#EXTINF:-1, tvg-id="IN | Star Plus HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | Star Plus HD  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | Star Plus HD  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5942.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Cinema Inter  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Zee Cinema Inter  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Zee Cinema Inter  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5940.ts
+
+#EXTINF:-1, tvg-id="IN | AAJ TAK NEWS  IPTVultra.com [176x144]" tvg-logo="Logo N/A" tvg-name="IN | AAJ TAK NEWS  IPTVultra.com [176x144]"  group-title="Unsorted",IN | AAJ TAK NEWS  IPTVultra.com [176x144]
+http://51.15.161.153:1557/live/mustaf/mustafa/5934.ts
+
+#EXTINF:-1, tvg-id="IN | COLORS TV INDIA  IPTVultra.com [1024x576]" tvg-logo="Logo N/A" tvg-name="IN | COLORS TV INDIA  IPTVultra.com [1024x576]"  group-title="Unsorted",IN | COLORS TV INDIA  IPTVultra.com [1024x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5930.ts
+
+#EXTINF:-1, tvg-id="IN | COLORS GUJRATI  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | COLORS GUJRATI  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | COLORS GUJRATI  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5931.ts
+
+#EXTINF:-1, tvg-id="PTV Sports  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="PTV Sports  IPTVultra.com [1920x1080]"  group-title="Unsorted",PTV Sports  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/11090.ts
+
+#EXTINF:-1, tvg-id="IN | ZEE TV HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | ZEE TV HD  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | ZEE TV HD  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/5950.ts
+
+#EXTINF:-1, tvg-id="MTV Beats HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="MTV Beats HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",MTV Beats HD  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/11029.ts
+
+#EXTINF:-1, tvg-id="IN | MTUNES HD MUSIC  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | MTUNES HD MUSIC  IPTVultra.com [704x400]"  group-title="Unsorted",IN | MTUNES HD MUSIC  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5929.ts
+
+#EXTINF:-1, tvg-id="IN | Star Sports 2  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="IN | Star Sports 2  IPTVultra.com [1920x1080]"  group-title="Unsorted",IN | Star Sports 2  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/9732.ts
+
+#EXTINF:-1, tvg-id="Zee TV UK  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="Zee TV UK  IPTVultra.com [1920x1080]"  group-title="Unsorted",Zee TV UK  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/10670.ts
+
+#EXTINF:-1, tvg-id="IN | UTV ACTION  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | UTV ACTION  IPTVultra.com [704x400]"  group-title="Unsorted",IN | UTV ACTION  IPTVultra.com [704x400]
+http://51.15.161.153:1557/live/mustaf/mustafa/5927.ts
+
+#EXTINF:-1, tvg-id="IN | ZEE CINEMA HD INDIA  IPTVultra.com [960x544]" tvg-logo="Logo N/A" tvg-name="IN | ZEE CINEMA HD INDIA  IPTVultra.com [960x544]"  group-title="Unsorted",IN | ZEE CINEMA HD INDIA  IPTVultra.com [960x544]
+http://51.15.161.153:1557/live/mustaf/mustafa/5926.ts
+
+#EXTINF:-1, tvg-id="Zindagi TV  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="Zindagi TV  IPTVultra.com [1920x1080]"  group-title="Unsorted",Zindagi TV  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/10767.ts
+
+#EXTINF:-1, tvg-id="IN | PEACE TV URDU  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="IN | PEACE TV URDU  IPTVultra.com [720x576]"  group-title="Unsorted",IN | PEACE TV URDU  IPTVultra.com [720x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/5928.ts
+
+#EXTINF:-1, tvg-id="Star Sports Select 1 HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="Star Sports Select 1 HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",Star Sports Select 1 HD  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/11111.ts
+
+#EXTINF:-1, tvg-id="Star Sports Select 2 HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="Star Sports Select 2 HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",Star Sports Select 2 HD  IPTVultra.com [1920x1080]
+http://51.15.161.153:1557/live/mustaf/mustafa/11112.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Business  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | Zee Business  IPTVultra.com [720x416]"  group-title="Unsorted",IN | Zee Business  IPTVultra.com [720x416]
+http://51.15.161.153:1557/live/mustaf/mustafa/885.ts
+
+#EXTINF:-1, tvg-id="IN | Zee Foodz  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | Zee Foodz  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | Zee Foodz  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/887.ts
+
+#EXTINF:-1, tvg-id="IN | Santhora TV  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | Santhora TV  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | Santhora TV  IPTVultra.com [1280x720]
+http://51.15.161.153:1557/live/mustaf/mustafa/868.ts
+
+#EXTINF:-1, tvg-id="IN | Sony ESPN  IPTVultra.com [768x576]" tvg-logo="Logo N/A" tvg-name="IN | Sony ESPN  IPTVultra.com [768x576]"  group-title="Unsorted",IN | Sony ESPN  IPTVultra.com [768x576]
+http://51.15.161.153:1557/live/mustaf/mustafa/920.ts
+
+#EXTINF:-1, tvg-id="ZEE ACTION  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="ZEE ACTION  IPTVultra.com [704x400]"  group-title="Unsorted",ZEE ACTION  IPTVultra.com [704x400]
+http://54.36.51.53:8000/live/ampadu/ampadu/5034.ts
+
+#EXTINF:-1, tvg-id="ZEE BOLLYWOOD HD  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE BOLLYWOOD HD  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE BOLLYWOOD HD  IPTVultra.com [640x480]
+http://54.36.51.53:8000/live/ampadu/ampadu/5024.ts
+
+#EXTINF:-1, tvg-id="ZEE CINEMA HD  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE CINEMA HD  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE CINEMA HD  IPTVultra.com [640x480]
+http://54.36.51.53:8000/live/ampadu/ampadu/5033.ts
+
+#EXTINF:-1, tvg-id="ZEE CINEMA HD  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="ZEE CINEMA HD  IPTVultra.com [720x576]"  group-title="Unsorted",ZEE CINEMA HD  IPTVultra.com [720x576]
+http://54.36.51.53:8000/live/ampadu/ampadu/5032.ts
+
+#EXTINF:-1, tvg-id="ZING  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="ZING  IPTVultra.com [1280x720]"  group-title="Unsorted",ZING  IPTVultra.com [1280x720]
+http://54.36.51.53:8000/live/ampadu/ampadu/5042.ts
+
+#EXTINF:-1, tvg-id="ZEE CINEMA UK  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE CINEMA UK  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE CINEMA UK  IPTVultra.com [640x480]
+http://54.36.51.53:8000/live/ampadu/ampadu/5043.ts
+
+#EXTINF:-1, tvg-id="ZEE TV HD BACKUP  IPTVultra.com [720x480]" tvg-logo="Logo N/A" tvg-name="ZEE TV HD BACKUP  IPTVultra.com [720x480]"  group-title="Unsorted",ZEE TV HD BACKUP  IPTVultra.com [720x480]
+http://54.36.51.53:8000/live/ampadu/ampadu/5030.ts
+
+#EXTINF:-1, tvg-id="ZEE PUNJABI  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="ZEE PUNJABI  IPTVultra.com [704x400]"  group-title="Unsorted",ZEE PUNJABI  IPTVultra.com [704x400]
+http://54.36.51.53:8000/live/ampadu/ampadu/5026.ts
+
+#EXTINF:-1, tvg-id="ZEE TV UK  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="ZEE TV UK  IPTVultra.com [1920x1080]"  group-title="Unsorted",ZEE TV UK  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/5040.ts
+
+#EXTINF:-1, tvg-id="ZEE MIX  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE MIX  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE MIX  IPTVultra.com [640x480]
+http://54.36.51.53:8000/live/ampadu/ampadu/5029.ts
+
+#EXTINF:-1, tvg-id="ZEE TV HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="ZEE TV HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",ZEE TV HD  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/5031.ts
+
+#EXTINF:-1, tvg-id="ZEE SMILE  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="ZEE SMILE  IPTVultra.com [1920x1080]"  group-title="Unsorted",ZEE SMILE  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/5045.ts
+
+#EXTINF:-1, tvg-id="ZEE CLASSIC  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="ZEE CLASSIC  IPTVultra.com [1920x1080]"  group-title="Unsorted",ZEE CLASSIC  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/5041.ts
+
+#EXTINF:-1, tvg-id="ZEE Busines/NEWS  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE Busines/NEWS  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE Busines/NEWS  IPTVultra.com [640x480]
+http://54.36.51.53:8000/live/ampadu/ampadu/5025.ts
+
+#EXTINF:-1, tvg-id="ZEE MARATHI  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE MARATHI  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE MARATHI  IPTVultra.com [640x480]
+http://54.36.51.53:8000/live/ampadu/ampadu/4947.ts
+
+#EXTINF:-1, tvg-id="ZEE PUNJAB  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="ZEE PUNJAB  IPTVultra.com [704x400]"  group-title="Unsorted",ZEE PUNJAB  IPTVultra.com [704x400]
+http://54.36.51.53:8000/live/ampadu/ampadu/4913.ts
+
+#EXTINF:-1, tvg-id="ZEE CLASSIC  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="ZEE CLASSIC  IPTVultra.com [1920x1080]"  group-title="Unsorted",ZEE CLASSIC  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/5044.ts
+
+#EXTINF:-1, tvg-id="COLORS HD  IPTVultra.com [704x576]" tvg-logo="Logo N/A" tvg-name="COLORS HD  IPTVultra.com [704x576]"  group-title="Unsorted",COLORS HD  IPTVultra.com [704x576]
+http://54.36.51.53:8000/live/ampadu/ampadu/5008.ts
+
+#EXTINF:-1, tvg-id="COLORS UK  IPTVultra.com [1024x576]" tvg-logo="Logo N/A" tvg-name="COLORS UK  IPTVultra.com [1024x576]"  group-title="Unsorted",COLORS UK  IPTVultra.com [1024x576]
+http://54.36.51.53:8000/live/ampadu/ampadu/5011.ts
+
+#EXTINF:-1, tvg-id="SONY MAX UK  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="SONY MAX UK  IPTVultra.com [704x400]"  group-title="Unsorted",SONY MAX UK  IPTVultra.com [704x400]
+http://54.36.51.53:8000/live/ampadu/ampadu/5015.ts
+
+#EXTINF:-1, tvg-id="SONY MAX 2  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="SONY MAX 2  IPTVultra.com [704x400]"  group-title="Unsorted",SONY MAX 2  IPTVultra.com [704x400]
+http://54.36.51.53:8000/live/ampadu/ampadu/5016.ts
+
+#EXTINF:-1, tvg-id="SONY TV HD  IPTVultra.com [768x432]" tvg-logo="Logo N/A" tvg-name="SONY TV HD  IPTVultra.com [768x432]"  group-title="Unsorted",SONY TV HD  IPTVultra.com [768x432]
+http://54.36.51.53:8000/live/ampadu/ampadu/5017.ts
+
+#EXTINF:-1, tvg-id="SONY TV HD  IPTVultra.com [1920x1088]" tvg-logo="Logo N/A" tvg-name="SONY TV HD  IPTVultra.com [1920x1088]"  group-title="Unsorted",SONY TV HD  IPTVultra.com [1920x1088]
+http://54.36.51.53:8000/live/ampadu/ampadu/5018.ts
+
+#EXTINF:-1, tvg-id="STAR GOLD  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="STAR GOLD  IPTVultra.com [544x576]"  group-title="Unsorted",STAR GOLD  IPTVultra.com [544x576]
+http://54.36.51.53:8000/live/ampadu/ampadu/5019.ts
+
+#EXTINF:-1, tvg-id="STAR LIFE OK  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="STAR LIFE OK  IPTVultra.com [1280x720]"  group-title="Unsorted",STAR LIFE OK  IPTVultra.com [1280x720]
+http://54.36.51.53:8000/live/ampadu/ampadu/5020.ts
+
+#EXTINF:-1, tvg-id="STAR PLUS HD UK  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="STAR PLUS HD UK  IPTVultra.com [1280x720]"  group-title="Unsorted",STAR PLUS HD UK  IPTVultra.com [1280x720]
+http://54.36.51.53:8000/live/ampadu/ampadu/5021.ts
+
+#EXTINF:-1, tvg-id="STAR PLUS HD UK  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="STAR PLUS HD UK  IPTVultra.com [1280x720]"  group-title="Unsorted",STAR PLUS HD UK  IPTVultra.com [1280x720]
+http://54.36.51.53:8000/live/ampadu/ampadu/5023.ts
+
+#EXTINF:-1, tvg-id="STAR PLUS UK SD/HD  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="STAR PLUS UK SD/HD  IPTVultra.com [544x576]"  group-title="Unsorted",STAR PLUS UK SD/HD  IPTVultra.com [544x576]
+http://54.36.51.53:8000/live/ampadu/ampadu/5022.ts
+
+#EXTINF:-1, tvg-id="B4U MOVIE  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="B4U MOVIE  IPTVultra.com [1920x1080]"  group-title="Unsorted",B4U MOVIE  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/5013.ts
+
+#EXTINF:-1, tvg-id="B4U PLUS  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="B4U PLUS  IPTVultra.com [640x368]"  group-title="Unsorted",B4U PLUS  IPTVultra.com [640x368]
+http://54.36.51.53:8000/live/ampadu/ampadu/5010.ts
+
+#EXTINF:-1, tvg-id="5AAB TV  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="5AAB TV  IPTVultra.com [1280x720]"  group-title="Unsorted",5AAB TV  IPTVultra.com [1280x720]
+http://54.36.51.53:8000/live/ampadu/ampadu/4940.ts
+
+#EXTINF:-1, tvg-id="9X TASHANN  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="9X TASHANN  IPTVultra.com [720x416]"  group-title="Unsorted",9X TASHANN  IPTVultra.com [720x416]
+http://54.36.51.53:8000/live/ampadu/ampadu/4939.ts
+
+#EXTINF:-1, tvg-id="ALPHA ETC PUNJABI  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="ALPHA ETC PUNJABI  IPTVultra.com [704x400]"  group-title="Unsorted",ALPHA ETC PUNJABI  IPTVultra.com [704x400]
+http://54.36.51.53:8000/live/ampadu/ampadu/4938.ts
+
+#EXTINF:-1, tvg-id="AONE PUNJABIi TV  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="AONE PUNJABIi TV  IPTVultra.com [1920x1080]"  group-title="Unsorted",AONE PUNJABIi TV  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/4937.ts
+
+#EXTINF:-1, tvg-id="CARTOON  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="CARTOON  IPTVultra.com [720x416]"  group-title="Unsorted",CARTOON  IPTVultra.com [720x416]
+http://54.36.51.53:8000/live/ampadu/ampadu/4944.ts
+
+#EXTINF:-1, tvg-id="CHAKDE TV  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="CHAKDE TV  IPTVultra.com [1280x720]"  group-title="Unsorted",CHAKDE TV  IPTVultra.com [1280x720]
+http://54.36.51.53:8000/live/ampadu/ampadu/4936.ts
+
+#EXTINF:-1, tvg-id="CHARDIKALA TIME TV  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="CHARDIKALA TIME TV  IPTVultra.com [640x368]"  group-title="Unsorted",CHARDIKALA TIME TV  IPTVultra.com [640x368]
+http://54.36.51.53:8000/live/ampadu/ampadu/4935.ts
+
+#EXTINF:-1, tvg-id="DESI BEATS HD  IPTVultra.com [720x400]" tvg-logo="Logo N/A" tvg-name="DESI BEATS HD  IPTVultra.com [720x400]"  group-title="Unsorted",DESI BEATS HD  IPTVultra.com [720x400]
+http://54.36.51.53:8000/live/ampadu/ampadu/4933.ts
+
+#EXTINF:-1, tvg-id="DESI ChANNEL  IPTVultra.com [720x400]" tvg-logo="Logo N/A" tvg-name="DESI ChANNEL  IPTVultra.com [720x400]"  group-title="Unsorted",DESI ChANNEL  IPTVultra.com [720x400]
+http://54.36.51.53:8000/live/ampadu/ampadu/4932.ts
+
+#EXTINF:-1, tvg-id="ALPHA ETC PUNJABI  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="ALPHA ETC PUNJABI  IPTVultra.com [704x400]"  group-title="Unsorted",ALPHA ETC PUNJABI  IPTVultra.com [704x400]
+http://54.36.51.53:8000/live/ampadu/ampadu/4931.ts
+
+#EXTINF:-1, tvg-id="JUS ONE TV  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="JUS ONE TV  IPTVultra.com [720x416]"  group-title="Unsorted",JUS ONE TV  IPTVultra.com [720x416]
+http://54.36.51.53:8000/live/ampadu/ampadu/4926.ts
+
+#EXTINF:-1, tvg-id="JUS PUNJABI TV  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="JUS PUNJABI TV  IPTVultra.com [720x416]"  group-title="Unsorted",JUS PUNJABI TV  IPTVultra.com [720x416]
+http://54.36.51.53:8000/live/ampadu/ampadu/4925.ts
+
+#EXTINF:-1, tvg-id="MUSIC INDIA  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="MUSIC INDIA  IPTVultra.com [1920x1080]"  group-title="Unsorted",MUSIC INDIA  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/4945.ts
+
+#EXTINF:-1, tvg-id="NATIONAL GEOGRAPHIC  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="NATIONAL GEOGRAPHIC  IPTVultra.com [1920x1080]"  group-title="Unsorted",NATIONAL GEOGRAPHIC  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/4946.ts
+
+#EXTINF:-1, tvg-id="PBN MUSIC  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="PBN MUSIC  IPTVultra.com [1920x1080]"  group-title="Unsorted",PBN MUSIC  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/4921.ts
+
+#EXTINF:-1, tvg-id="PTC News  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="PTC News  IPTVultra.com [640x368]"  group-title="Unsorted",PTC News  IPTVultra.com [640x368]
+http://54.36.51.53:8000/live/ampadu/ampadu/4919.ts
+
+#EXTINF:-1, tvg-id="PTC Punjabi  IPTVultra.com [640x368]" tvg-logo="Logo N/A" tvg-name="PTC Punjabi  IPTVultra.com [640x368]"  group-title="Unsorted",PTC Punjabi  IPTVultra.com [640x368]
+http://54.36.51.53:8000/live/ampadu/ampadu/4918.ts
+
+#EXTINF:-1, tvg-id="SIKH Channel  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="SIKH Channel  IPTVultra.com [1280x720]"  group-title="Unsorted",SIKH Channel  IPTVultra.com [1280x720]
+http://54.36.51.53:8000/live/ampadu/ampadu/4916.ts
+
+#EXTINF:-1, tvg-id="SIKH TV  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="SIKH TV  IPTVultra.com [1280x720]"  group-title="Unsorted",SIKH TV  IPTVultra.com [1280x720]
+http://54.36.51.53:8000/live/ampadu/ampadu/4915.ts
+
+#EXTINF:-1, tvg-id="STAR MOVIES  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="STAR MOVIES  IPTVultra.com [704x400]"  group-title="Unsorted",STAR MOVIES  IPTVultra.com [704x400]
+http://54.36.51.53:8000/live/ampadu/ampadu/4949.ts
+
+#EXTINF:-1, tvg-id="STAR SPORTS 1 HD  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="STAR SPORTS 1 HD  IPTVultra.com [720x416]"  group-title="Unsorted",STAR SPORTS 1 HD  IPTVultra.com [720x416]
+http://54.36.51.53:8000/live/ampadu/ampadu/4954.ts
+
+#EXTINF:-1, tvg-id="STAR SPORTS 2 HD  IPTVultra.com [1024x576]" tvg-logo="Logo N/A" tvg-name="STAR SPORTS 2 HD  IPTVultra.com [1024x576]"  group-title="Unsorted",STAR SPORTS 2 HD  IPTVultra.com [1024x576]
+http://54.36.51.53:8000/live/ampadu/ampadu/4953.ts
+
+#EXTINF:-1, tvg-id="STAR SPORTS 3 HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="STAR SPORTS 3 HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",STAR SPORTS 3 HD  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/4952.ts
+
+#EXTINF:-1, tvg-id="WILLOW CRICKET HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="WILLOW CRICKET HD  IPTVultra.com [1280x720]"  group-title="Unsorted",WILLOW CRICKET HD  IPTVultra.com [1280x720]
+http://54.36.51.53:8000/live/ampadu/ampadu/4955.ts
+
+#EXTINF:-1, tvg-id="LF LIVING FOODZ  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="LF LIVING FOODZ  IPTVultra.com [704x400]"  group-title="Unsorted",LF LIVING FOODZ  IPTVultra.com [704x400]
+http://54.36.51.53:8000/live/ampadu/ampadu/5038.ts
+
+#EXTINF:-1, tvg-id="UTV MOVIES INTERNATIONAL  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="UTV MOVIES INTERNATIONAL  IPTVultra.com [720x416]"  group-title="Unsorted",UTV MOVIES INTERNATIONAL  IPTVultra.com [720x416]
+http://54.36.51.53:8000/live/ampadu/ampadu/5009.ts
+
+#EXTINF:-1, tvg-id="QURAN TV  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="QURAN TV  IPTVultra.com [720x576]"  group-title="Unsorted",QURAN TV  IPTVultra.com [720x576]
+http://54.36.51.53:8000/live/ampadu/ampadu/5027.ts
+
+#EXTINF:-1, tvg-id="STAR SPORTS 4 HD  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="STAR SPORTS 4 HD  IPTVultra.com [1920x1080]"  group-title="Unsorted",STAR SPORTS 4 HD  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/4951.ts
+
+#EXTINF:-1, tvg-id="TV84  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="TV84  IPTVultra.com [1920x1080]"  group-title="Unsorted",TV84  IPTVultra.com [1920x1080]
+http://54.36.51.53:8000/live/ampadu/ampadu/4914.ts
+
+#EXTINF:-1, tvg-id="WIND RIVER 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x800]" tvg-logo="Logo N/A" tvg-name="WIND RIVER 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x800]"  group-title="Unsorted",WIND RIVER 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x800]
+http://54.36.51.53:8000/movie/ampadu/ampadu/8267.mkv
+
+#EXTINF:-1, tvg-id="KING ARTHUR LEGEND OF THE SWORD 2017 BRRIP 720P DD5.1 ingebakken NL SUBS  IPTVultra.com [1280x532]" tvg-logo="Logo N/A" tvg-name="KING ARTHUR LEGEND OF THE SWORD 2017 BRRIP 720P DD5.1 ingebakken NL SUBS  IPTVultra.com [1280x532]"  group-title="Unsorted",KING ARTHUR LEGEND OF THE SWORD 2017 BRRIP 720P DD5.1 ingebakken NL SUBS  IPTVultra.com [1280x532]
+http://54.36.51.53:8000/movie/ampadu/ampadu/6132.mkv
+
+#EXTINF:-1, tvg-id="KING ARTHUR LEGEND OF THE SWORD 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x792]" tvg-logo="Logo N/A" tvg-name="KING ARTHUR LEGEND OF THE SWORD 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x792]"  group-title="Unsorted",KING ARTHUR LEGEND OF THE SWORD 2017 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1912x792]
+http://54.36.51.53:8000/movie/ampadu/ampadu/6133.mkv
+
+#EXTINF:-1, tvg-id="SING 2016 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1920x1040]" tvg-logo="Logo N/A" tvg-name="SING 2016 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1920x1040]"  group-title="Unsorted",SING 2016 BLURAY 1080P DD5.1 EXTERN NL SUBS  IPTVultra.com [1920x1040]
+http://54.36.51.53:8000/movie/ampadu/ampadu/5704.mkv
+
+#EXTINF:-1, tvg-id="IN | Sony Max 2  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="IN | Sony Max 2  IPTVultra.com [704x400]"  group-title="Unsorted",IN | Sony Max 2  IPTVultra.com [704x400]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/4247.ts
+
+#EXTINF:-1, tvg-id="IN | Sony ESPN  IPTVultra.com [768x576]" tvg-logo="Logo N/A" tvg-name="IN | Sony ESPN  IPTVultra.com [768x576]"  group-title="Unsorted",IN | Sony ESPN  IPTVultra.com [768x576]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/4246.ts
+
+#EXTINF:-1, tvg-id="ZEE CINEMA HD  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="ZEE CINEMA HD  IPTVultra.com [640x480]"  group-title="Unsorted",ZEE CINEMA HD  IPTVultra.com [640x480]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/1261.ts
+
+#EXTINF:-1, tvg-id="IN | UTV Movies International  IPTVultra.com [720x416]" tvg-logo="Logo N/A" tvg-name="IN | UTV Movies International  IPTVultra.com [720x416]"  group-title="Unsorted",IN | UTV Movies International  IPTVultra.com [720x416]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/1425.ts
+
+#EXTINF:-1, tvg-id="Sony Sab  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="Sony Sab  IPTVultra.com [720x576]"  group-title="Unsorted",Sony Sab  IPTVultra.com [720x576]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/2191.ts
+
+#EXTINF:-1, tvg-id="STAR GOLD  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="STAR GOLD  IPTVultra.com [544x576]"  group-title="Unsorted",STAR GOLD  IPTVultra.com [544x576]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/1843.ts
+
+#EXTINF:-1, tvg-id="STAR JALSHA  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="STAR JALSHA  IPTVultra.com [1280x720]"  group-title="Unsorted",STAR JALSHA  IPTVultra.com [1280x720]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/2146.ts
+
+#EXTINF:-1, tvg-id="Star Sports 1 HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="Star Sports 1 HD  IPTVultra.com [1280x720]"  group-title="Unsorted",Star Sports 1 HD  IPTVultra.com [1280x720]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/1292.ts
+
+#EXTINF:-1, tvg-id="IN | TEN 1 HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="IN | TEN 1 HD  IPTVultra.com [1280x720]"  group-title="Unsorted",IN | TEN 1 HD  IPTVultra.com [1280x720]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/2283.ts
+
+#EXTINF:-1, tvg-id="TEN CRICKET  IPTVultra.com [704x400]" tvg-logo="Logo N/A" tvg-name="TEN CRICKET  IPTVultra.com [704x400]"  group-title="Unsorted",TEN CRICKET  IPTVultra.com [704x400]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/1427.ts
+
+#EXTINF:-1, tvg-id="STAR SPORTS 3 HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="STAR SPORTS 3 HD  IPTVultra.com [1280x720]"  group-title="Unsorted",STAR SPORTS 3 HD  IPTVultra.com [1280x720]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/1841.ts
+
+#EXTINF:-1, tvg-id="Rishtey TV  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="Rishtey TV  IPTVultra.com [544x576]"  group-title="Unsorted",Rishtey TV  IPTVultra.com [544x576]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/2193.ts
+
+#EXTINF:-1, tvg-id="STAR LIFE OK  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="STAR LIFE OK  IPTVultra.com [1280x720]"  group-title="Unsorted",STAR LIFE OK  IPTVultra.com [1280x720]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/1842.ts
+
+#EXTINF:-1, tvg-id="Abp News  IPTVultra.com [544x576]" tvg-logo="Logo N/A" tvg-name="Abp News  IPTVultra.com [544x576]"  group-title="Unsorted",Abp News  IPTVultra.com [544x576]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/2192.ts
+
+#EXTINF:-1, tvg-id="&Picture HD  IPTVultra.com [640x480]" tvg-logo="Logo N/A" tvg-name="&Picture HD  IPTVultra.com [640x480]"  group-title="Unsorted",&Picture HD  IPTVultra.com [640x480]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/2260.ts
+
+#EXTINF:-1, tvg-id="VIP FR| Elle Girl HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="VIP FR| Elle Girl HD  IPTVultra.com [1280x720]"  group-title="Unsorted",VIP FR| Elle Girl HD  IPTVultra.com [1280x720]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/1128.ts
+
+#EXTINF:-1, tvg-id="MTV HD  IPTVultra.com [1280x720]" tvg-logo="Logo N/A" tvg-name="MTV HD  IPTVultra.com [1280x720]"  group-title="Unsorted",MTV HD  IPTVultra.com [1280x720]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/929.ts
+
+#EXTINF:-1, tvg-id="LQ Ð•Ð²Ñ€Ð¾ÑÐ¿Ð¾Ñ€Ñ‚  IPTVultra.com [720x576]" tvg-logo="Logo N/A" tvg-name="LQ Ð•Ð²Ñ€Ð¾ÑÐ¿Ð¾Ñ€Ñ‚  IPTVultra.com [720x576]"  group-title="Unsorted",LQ Ð•Ð²Ñ€Ð¾ÑÐ¿Ð¾Ñ€Ñ‚  IPTVultra.com [720x576]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/934.ts
+
+#EXTINF:-1, tvg-id="LQ Ð ÑƒÑÑÐºÐ°Ñ Ð½Ð¾Ñ‡ÑŒ  IPTVultra.com [1920x1080]" tvg-logo="Logo N/A" tvg-name="LQ Ð ÑƒÑÑÐºÐ°Ñ Ð½Ð¾Ñ‡ÑŒ  IPTVultra.com [1920x1080]"  group-title="Unsorted",LQ Ð ÑƒÑÑÐºÐ°Ñ Ð½Ð¾Ñ‡ÑŒ  IPTVultra.com [1920x1080]
+http://78.142.29.72:2500/live/oMn1l2InrK/VHX3lbHLOO/1845.ts
+
